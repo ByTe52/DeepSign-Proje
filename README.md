@@ -7,4 +7,5 @@ Grup Üyeleri
 4-Berkay Aras
 
 Sunum Video Linki: https://youtu.be/sdvqIHrtHyk
+
 Dataset Linki: https://www.kaggle.com/datasets/berkaykocaoglu/tr-sign-language
